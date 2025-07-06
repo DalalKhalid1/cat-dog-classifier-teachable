@@ -1,4 +1,4 @@
- Cat vs Dog Classifier (Teachable Machine Project)
+# Cat vs Dog Classifier (Teachable Machine Project)
 
 
 
