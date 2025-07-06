@@ -1,5 +1,5 @@
 # Cat vs Dog Classifier (Teachable Machine Project)
-
+![Screenshot](Task files/Screenshot_cat_dog.png)
 
 
 # Task Instructions
