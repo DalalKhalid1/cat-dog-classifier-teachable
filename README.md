@@ -22,3 +22,6 @@
 - `script.py` or `notebook.ipynb` — The code used for prediction.
 - `output.png` — Screenshot showing the result of prediction.
 - `README.md` — This documentation file.
+
+## Notes
+- Due to TensorFlow version mismatch between Teachable Machine and local environments, I later converted the model to TensorFlow Lite for compatibility and tested it on Colab.
